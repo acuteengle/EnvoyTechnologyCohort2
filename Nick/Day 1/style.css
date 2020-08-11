@@ -1,0 +1,40 @@
+html{
+    color:blue;
+    font-family: monospace;
+}
+h4{
+    font-size: 30px;
+}
+.right{
+    text-align: right;
+}
+#cool{
+    height: 100px;
+    width:100px;
+    background-color: blueviolet;
+    border-color: darkmagenta;
+    border-width: 5px;
+    padding: 20px;
+    border-style: solid;
+    margin:auto;
+}
+ol{
+    list-style-type: upper-roman;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+}
+a:link, a:visited{
+    color:orange;
+    text-decoration: none;
+}
+a:hover{
+    color: hotpink; 
+    text-decoration: underline;
+    background-color: cyan;
+}

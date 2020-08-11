@@ -1,0 +1,22 @@
+Time: 20min
+
+Instructions:
+- Create your own HTML file in Visual Studio Code called index.html
+- Create your own Javascript file in Visual Studio Code called script.js
+- Link your JS file to your HTML file right before your closing <body> tag with a <script> tag
+- Create an <h1> tag with id "myHeader" in the <body> of your HTML
+- Write a line of Javascript code in your script.js file that gives your <h1> tag the text "I understand Javascript"
+- Create a <button> with id "changeText" and label "click me" under your <h1> tag in your HTML file
+- In your script.js file, create an event listener for "click" for your button
+- Make it so that when the user clicks the button, your <h1> tag now says "Event Listeners are cool!"
+- Create a <p> tag with id "myParagraph" in the <body> of your HTML
+- Write a line of Javascript code in your script.js file that centers your <p> tag
+- Write a line of Javascript code that makes your <p> tag lightblue
+- "console.log" the message "I understand how to log" in your script.js file
+- Create a <button> with id "sendAlert"
+- Create an event listener for "click" for your new button
+- Make it so that when the user clicks the button, an alert is triggered that says "I understand alerts!"
+- Create an <img> with id "funImage"
+- Create a <button> with id "changeImage"
+- Create an event listener for "click" for your new button
+- Make it so that when the user clicks the button, your image src becomes "https://secure.img1-fg.wfcdn.com/im/02238154/compr-r85/8470/84707680/pokemon-pikachu-wall-decal.jpg"
