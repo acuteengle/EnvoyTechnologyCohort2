@@ -1,0 +1,50 @@
+#redbold {
+    color: red;
+    font-weight: bold; 
+}
+.header1 {
+    font-style: italic;
+    text-align: center;
+}
+.underline {
+    text-decoration: underline;
+}
+.fontimpact {
+    font-family: Impact;
+}
+.right {
+    text-align: right;
+}
+#myDiv {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border: 10px solid lightblue;
+    padding: 20px;
+    margin: auto;
+}
+.imagewidth{
+    width: 50%;
+}
+.listfont{
+    list-style-type: upper-roman;
+}
+table {
+    border-collapse: collapse;
+  }
+td {
+    border: 1px solid black;
+}
+a:link, a:visited sites {
+    color: orange;
+    text-decoration: none;
+}
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: cyan;
+}
+html {
+    color: darkblue;
+    font-family: monospace;
+}
