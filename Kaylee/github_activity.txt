@@ -1,0 +1,23 @@
+Time: 15min
+
+- Send me your email so that I can give you acces to the repository
+- Find a place on your computer where you want to store your clone and create a folder
+- Navigate to it in your terminal (pwd, cd <directory name>, ls, ../)
+- Clone the class repository that I give you to your computer
+- git clone <insert repository URL>
+- cd into your repository that you just cloned
+- create a file called .gitignore and write ".DS_Store" on the first line and save it
+- Create a folder in your local repository that is named <insert your name>
+- Create folders labeled, HTML, CSS, DOM in your new folder
+- Move your code from each activity into their respective folders
+    Activity 1 -> HTML
+    Activity 2 -> CSS
+    Activity 3 -> DOM
+- git add .
+- git status
+- git commit -m "<insert your name>'s files"
+- git pull
+- <resolve conflicts if you have any>
+- git push
+- Look on github to see if your changes were added to the repository
+

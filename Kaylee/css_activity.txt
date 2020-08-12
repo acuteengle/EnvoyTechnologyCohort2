@@ -1,0 +1,30 @@
+Time: 20min
+
+Instructions:
+- Create your own HTML file in Visual Studio Code called index.html
+- Create your own CSS file in Visual Studio Code called style.CSS
+- Link your CSS file to your HTML file in the <head> tag
+- Create a <p> tag in the <body> of your HTML and make it red and bold
+- Create an <h1> tag in the <body> of your HTML and center it and italicize it
+- Create an <h3> tag in the <body> of your HTML and underline it
+- In your HTML file, change the font of your <h3> tag to be Impact
+- Create an <h4> tag in the <body> of your html
+- Add a <style> tag in your <head> tag and changing the fontSize of your <h4> tag
+- Create 2 <p> tags and give them class "right"
+- Style all elements with the class "right" to text-align right
+- Create a <div> tag and give it a id "myDiv"
+- Give your <div> a height of 100px and width of 100px and background-color of your choice
+- Give your <div> a solid border with thickness and color of your choice
+- Give your <div> a padding of 20px
+- Center your <div>
+- Create an <img> (of your choice) and give it width 50%
+- Create a <ol> and fill it with 3 <li> fields that are fruits
+- Give your <ol> style list-style-type: upper-roman;
+- Create a 3x3 table where each cell has the word "Coding" and 
+- Give your <table> style border-collapse: collapse;
+- Give your <td> style border: 1px solid black;
+- Create an <a> tag that has text "Hello" and links to "https://glitch.com/"
+- Give a:link, a:visited styles "color: orange; text-decoration: none;"
+- Give a:hover styles "color: hotpink; text-decoration: underline; background-color: cyan;"
+- Add a couple more generic <p> tags with text to your HTML file
+- Add styling to "html" in your style.css file and give your page a default font color of dark blue and font Monospace
