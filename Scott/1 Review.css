@@ -1,0 +1,39 @@
+ #myP {
+  color: red;
+}
+#greninja {
+  width: 500px;
+}
+.roman {
+  list-style-type: upper-roman;
+}
+.squares {
+  list-style-type: square;
+}
+#h3Tag {
+  font-size: 40px;
+  font-family: impact;
+}
+#h4tag {
+  font-style: italic;
+}
+a:hover {
+  color: hotpink;
+  background-color: cyan;
+}
+div{
+  margin: auto;
+  border-color: darkmagenta;
+  border-width: 5px;
+    border-style: solid;
+}
+#table{
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid green;
+}
+td:hover{
+  background-color:pink;
+}
+

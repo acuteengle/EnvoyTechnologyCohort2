@@ -1,0 +1,43 @@
+.right {
+    text-align: right;
+    
+  }
+  #myDiv {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border: 10px solid blue;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  #myIMG {
+    width: 50%;
+  }
+  
+  #table {
+      border-collapse: collapse;
+  }
+  
+  td {
+      border: 1px solid black;
+  }
+  
+  #list {
+      list-style-type: upper-roman;
+  }
+  a:link, a:visited {
+    color: orange;
+    text-decoration: none;
+  }
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: cyan;
+  }
+  
+  html {
+    font-color: darkblue;
+    font-family: monospace;
+  }
