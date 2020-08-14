@@ -1,0 +1,15 @@
+.myDiv {
+    color: #65bf6f;
+    text-align: center;
+
+    margin: auto;
+    padding: 20px;
+    background-color: #396c70;
+    
+    border: 7px solid #158a92;
+    border-radius: 3px;
+}
+
+body {
+    background-color: #396d3f;
+}
